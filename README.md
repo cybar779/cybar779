@@ -7,9 +7,7 @@
 </p>
 
 ## 👨‍💻 Tentang Saya
-- Membangun website dan aplikasi web
-- Suka musik dan anime
-- Belajar hal baru setiap hari
+Saya mengembangkan ekosistem **Jedannn**, dengan fokus pada website yang mudah diakses lewat browser dan membantu berbagai kebutuhan sehari-hari. Proyek-proyek saya mencakup platform tools serba ada, pengalaman pemutar musik, serta katalog informasi anime.
 
 ## 🚀 Proyek
 | Proyek | Deskripsi |
